@@ -19,3 +19,10 @@ void FillArray(string[] array)                              // Вводим ма
     }
 }
 
+int ReadLengthNewArray(string[] array)                       // Ищем количество строк > 2 символов
+{
+    int count = 0;
+    for (int i = 0; i < array.Length; i++)
+        if (array[i].Length <= 2) count++;
+    return count;
+}
