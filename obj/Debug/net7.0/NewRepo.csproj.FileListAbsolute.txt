@@ -1,0 +1,15 @@
+C:\NewRepo\bin\Debug\net7.0\NewRepo.exe
+C:\NewRepo\bin\Debug\net7.0\NewRepo.deps.json
+C:\NewRepo\bin\Debug\net7.0\NewRepo.runtimeconfig.json
+C:\NewRepo\bin\Debug\net7.0\NewRepo.dll
+C:\NewRepo\bin\Debug\net7.0\NewRepo.pdb
+C:\NewRepo\obj\Debug\net7.0\NewRepo.csproj.AssemblyReference.cache
+C:\NewRepo\obj\Debug\net7.0\NewRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\NewRepo\obj\Debug\net7.0\NewRepo.AssemblyInfoInputs.cache
+C:\NewRepo\obj\Debug\net7.0\NewRepo.AssemblyInfo.cs
+C:\NewRepo\obj\Debug\net7.0\NewRepo.csproj.CoreCompileInputs.cache
+C:\NewRepo\obj\Debug\net7.0\NewRepo.dll
+C:\NewRepo\obj\Debug\net7.0\refint\NewRepo.dll
+C:\NewRepo\obj\Debug\net7.0\NewRepo.pdb
+C:\NewRepo\obj\Debug\net7.0\NewRepo.genruntimeconfig.cache
+C:\NewRepo\obj\Debug\net7.0\ref\NewRepo.dll
