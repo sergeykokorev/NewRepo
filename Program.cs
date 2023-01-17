@@ -26,3 +26,16 @@ int ReadLengthNewArray(string[] array)                       // Ищем кол�
         if (array[i].Length <= 2) count++;
     return count;
 }
+
+void CreateNewArray(string[] newArray, string[] array)        // Создаем новый массив
+{
+    int numberPosition = 0;
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i].Length <= 2)
+        {
+            newArray[numberPosition] = array[i];
+            numberPosition++;
+        }
+    }
+}
