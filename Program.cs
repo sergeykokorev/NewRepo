@@ -39,3 +39,9 @@ void CreateNewArray(string[] newArray, string[] array)        // Создаем 
         }
     }
 }
+
+void PrintArray(string[] newArray)                             // Выводим новый массив
+{
+    for (int i = 0; i < newArray.Length; i++)
+       Console.Write($"({newArray[i]}) ");
+}
