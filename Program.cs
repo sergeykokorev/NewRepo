@@ -27,7 +27,7 @@ int ReadLengthNewArray(string[] array)                       // Ищем кол�
     return count;
 }
 
-void CreateNewArray(string[] newArray, string[] array)        // Создаем новый массив
+void CreateNewArray(string[] newArray, string[] array)        // Создаем новый массив и заносим значения в него
 {
     int numberPosition = 0;
     for (int i = 0; i < array.Length; i++)
@@ -45,3 +45,4 @@ void PrintArray(string[] newArray)                             // Выводим
     for (int i = 0; i < newArray.Length; i++)
        Console.Write($"({newArray[i]}) ");
 }
+
